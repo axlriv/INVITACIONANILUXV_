@@ -195,7 +195,7 @@ body {
       .parroquia-text {
       font-family: 'boston angel', cursive; /* Tipo de letra deseado */
       color: rgb(182, 106, 151); /* Color en RGB (182, 106, 151) */
-      font-size: 20px; /* Ajusta el tamaño del texto según sea necesario */
+      font-size: 25px; /* Ajusta el tamaño del texto según sea necesario */
       margin-top: 10px; /* Ajusta el valor según sea necesario */
     }
      .invitation-text {
